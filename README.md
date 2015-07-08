@@ -11,7 +11,7 @@ I can't remmember all that crap
 Download and symlink to your path
 
 ```bash
-$ git clone git@github.com:albfan/git-backup-clean.git
+$ git clone https://github.com/albfan/git-backup-clean 
 $ cd git-backup-clean
 $ ln -s $PWD/git-backup-clean ~/bin/
 ```
